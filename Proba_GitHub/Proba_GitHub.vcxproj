@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Proba_GitHub.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\.mcp.json" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

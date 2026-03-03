@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Proba_GitHub/Proba_GitHub.vcxproj" />
+  <Project Path="Proba_GitHub/Proba_GitHub.vcxproj" Id="5cd4ba94-6bd9-4b00-9b61-481b3f0bf840" />
 </Solution>
