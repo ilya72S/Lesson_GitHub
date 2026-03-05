@@ -135,4 +135,9 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties _1_1_4_1_1_4_1mcp_1json__JsonSchema="" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>
