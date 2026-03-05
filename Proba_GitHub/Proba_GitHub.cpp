@@ -5,12 +5,18 @@
 #include <locale.h>
 #include <cstdlib>
 using namespace std;
+int Sum(int a, int b)
+{
+    return a + b;
+}
 
 int main()
 {
     setlocale(LC_ALL, "Russian");
+    int a = 2, b = 5;
+    cout << "a + b = " << Sum(a, b);
 
-    std::cout << "Hello World!\n";
+    
     return 0;
 }
 
