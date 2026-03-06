@@ -4,10 +4,15 @@
 #include <iostream>
 #include <locale.h>
 #include <cstdlib>
+
 using namespace std;
+
 float Div(int x, int y)
 {
-    return x / y ;
+    if (y != 0)
+        return x / y;
+    else
+        cout << "деление на ноль";
 
 }
 
