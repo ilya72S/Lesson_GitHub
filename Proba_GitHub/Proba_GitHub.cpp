@@ -5,9 +5,9 @@
 #include <locale.h>
 #include <cstdlib>
 using namespace std;
-int Multiply(int x, int y)
+float Div(int x, int y)
 {
-    return x * y ;
+    return x / y ;
 
 }
 
